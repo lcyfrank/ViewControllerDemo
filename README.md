@@ -3,7 +3,7 @@
 一个用来实现视图控制器简单跳转的demo
 
 ### 通过容器简单跳转
-![](https://s1.ax1x.com/2017/10/13/8vVmV.md.gif)
+![](https://s1.ax1x.com/2017/10/13/8vKfJ.gif)
 
 ### 通过容器动画跳转
 ![](https://s1.ax1x.com/2017/10/13/8vZwT.gif)
